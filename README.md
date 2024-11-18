@@ -24,5 +24,3 @@ Insights:
 
 Final comclusion:
 Target women customers of age group (30-49) living in states Maharashtra, Karnataka, Uttar Pradesh by showing adds/offers of Amazon, Flipkart,Myntra.
-![image](https://github.com/user-attachments/assets/9748ff4f-13bb-4512-b4fd-7ea20fc81106)
-
